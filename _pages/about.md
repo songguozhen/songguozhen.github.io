@@ -17,54 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=QoPUnAgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+# 关于我 | About Me
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+您好！我是宋国振，一名对世界充满好奇、专注于利用科技创新应对环境挑战的本科生。
+  
+我目前就读于**河南大学（“双一流”高校）迈阿密学院**的环境科学专业。本科期间，我系统夯实了数理化理论基础（​**​多门核心课程成绩优异​**​），并以​**​专业综合排名第一（1/58）​**​ 的成绩展现了扎实的学习能力和钻研精神。我的学术探索始终关注环境科学与数据科学等前沿领域的交叉融合，致力于为可持续发展探索新路径。
+
+我的核心研究兴趣聚焦两个维度：
+
+- ​**​宏观尺度：​**​ 应用机器学习与Meta分析等先进方法，评估气候变化因子（如eCO<sub>2</sub>）对全球生态系统的大尺度影响。
+
+- ​**​微观层面：​**​ 研发“变废为宝”的新材料与新能源技术，致力于将废弃物转化为高性能储能材料等资源。
+
+我深信，解决现实环境问题的重大突破，源于坚实的知识根基、勇于跨界的魄力和直面挑战的决心。
+
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2023.09 - 至今*, <a href="https://www.henu.edu.cn/"><img class="svg" src="/images/henu_logo.png" width="20pt"></a> 河南大学 迈阿密学院, 河南开封, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 学术背景
 
-### 英文
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Paper_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
+-	`国家级大创负责人`, 生物质基金属-氮共掺杂多孔炭的可控制备及在电催化CO<sub>2</sub>中的应用研究, 进行中, 2025.05-2026.05.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSC Adv. 2025</div><img src='images/Paper_02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	`Guozhen Song​​`, Yijun Tian, Jieni Wang, Shuqin Zhang, Haodong Hou, Chenlin Wei, Leichang Cao, Jinglai Zhang, ​​and​​ Shicheng Zhang. In situ nitrogen-doped porous carbon from waste baby diapers as a high-performance supercapacitor electrode material. ​​RSC Advances​​. 2025, 15(26): 20657–20667. `(JCR Q2, IF=4.60)`
+[[网页]](https://pubs.rsc.org/en/content/articlehtml/2025/ra/d5ra00450k)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/Paper_02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
+-	`Guozhen Song​​`, Yijun Tian, Jieni Wang, Shuqin Zhang, Haodong Hou, Chenlin Wei, Leichang Cao, Jinglai Zhang, ​​and​​ Shicheng Zhang. In situ nitrogen-doped porous carbon from waste baby diapers as a high-performance supercapacitor electrode material. ​​RSC Advances​​. 2025, 15(26): 20657–20667. `(JCR Q2, TOP journal, IF=4.60)`
 [[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
 
 </div>
@@ -163,14 +163,14 @@ redirect_from:
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ 学术会议（示例）
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+# 💻 工作实习（示例）
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉

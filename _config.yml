@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "宋国振"
-  avatar           : "self-512x512.png"
+  avatar           : "/images/self-512x512.png"
   bio              : "河南大学"
   location         : "河南 开封"
   employer         : # "Hefei General Machinery Research Institute"

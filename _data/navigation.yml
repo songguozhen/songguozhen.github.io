@@ -6,7 +6,7 @@
 #   - title: "学历"
 #     url: "/zh-cn/#-xl"
 
-#   - title: "论文专利"
+#   - title: "学术背景"
 #     url: "/zh-cn/#-lwzl"
 
 #   - title: "荣誉奖项"
@@ -26,7 +26,7 @@ main:
   - title: "学历"
     url: "/#-xl"
 
-  - title: "论文专利"
+  - title: "学术背景"
     url: "/#-lwzl"
 
   - title: "荣誉奖项"
