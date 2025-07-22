@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b6035e614cd9a22c",
+        "id": "c4b75e6fab6c3f82",
         "type": "tabs",
         "children": [
           {
-            "id": "527ba9044ae8025f",
+            "id": "997dd54b2ab6716c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Paper_01.png"
-              },
-              "icon": "lucide-image",
-              "title": "Paper_01"
-            }
-          },
-          {
-            "id": "02d0b99466192c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_pages/about.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "about"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "about 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -126,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "about 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -155,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "about 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -181,19 +161,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "02d0b99466192c4a",
+  "active": "997dd54b2ab6716c",
   "lastOpenFiles": [
+    "images/Paper_01.png",
+    "_pages/about.md",
     "_site/images/Paper_03.png",
     "images/Paper_03.png",
     "images/Paper_02.png",
     "_site/images/Paper_02.png",
-    "_pages/about.md",
     "_site/images/Graphical Abstract.png",
-    "images/Paper_01.png",
     "images/HUST_logo.svg",
     "images/henu_logo.png",
     "_site/images/Paper_01.png",
-    "_site/images/Pasted image 20250720001624.png",
-    "_site/Pasted image 20250720001624.png"
+    "_site/images/Pasted image 20250720001624.png"
   ]
 }
